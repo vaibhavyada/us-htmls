@@ -1,0 +1,29 @@
+html{
+    background-color: peachpuff;
+}
+h1{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+h2{
+    background-color: gray;
+    color: aliceblue;
+    text-align: center;
+}
+div{
+    border: 7px solid peru;
+    margin-top: 100px;
+}
+img{
+    height: 200px;
+    border: 5px solid black;
+}
+div3{
+    position: relative;
+    left:300px
+}
+div2{
+    position: relative;
+    left:200px
+}
